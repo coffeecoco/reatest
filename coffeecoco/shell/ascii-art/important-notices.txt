@@ -1,0 +1,17 @@
+          READ ME FOR SOME IMPORTANT INFORMATION!
+          =======================================
+
+If Puppet did not blow up (you do not see a sea of red
+above), then your VM was generated successfully!
+
+* A unique private key was generated for you! It is located
+  at "coffeecoco/files/dot/ssh/id_rsa".
+
+
+* If you change "coffeecoco/config.yaml", simply run
+  "$ vagrant provision" and your VM will be updated with the
+  changes you requested!
+
+https://github.com/coffeecoco/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
